@@ -55,4 +55,4 @@ By default SCMs offer very free form methods of contribution. It is important th
 
 SCM is an invaluable tool for modern software development. The best software teams use SCM and your team should too. SCM is very easy to set up on a new project and the return on investment is high. Atlassian offers some of the best SCM integration tools in the world that will help you get started.
 
-[Back to top](./README.md)
+[Back to top](#README.md)
