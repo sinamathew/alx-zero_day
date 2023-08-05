@@ -5,6 +5,36 @@ Source code management (SCM) is used to track modifications to a source code rep
 
 As software projects grow in lines of code and contributor head count, the costs of communication overhead and management complexity also grow. SCM is a critical tool to alleviate the organizational strain of growing development costs.
 
+## Source code management tools
+
+There are so many SCM tools that software developers and engineers can take advantage of. but the most popular ones are:
+* Git
+  * Github
+  * Gitlab
+  * Gitea
+  * Gitee
+* Fossil
+* Mercurial
+* Subversion
+
+### Git
+
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+Git was created  by Linus Torvalds and Gitee, Gitea, Github and Gitlab  are based on Git.
+
+### Fossil
+
+Fossil is a software configuration management, bug tracking system and wiki software server for use in software development created by D. Richard Hipp.
+
+### Mercurial
+
+Mercurial is a popular distributed version control system, that offers way to archive as well as to save older versions of source code. Mercurial came into existence in 2005 as an open-source version control system and was developed by Matt Mackall.\
+
+### Subversion
+
+Apache Subversion (often abbreviated SVN, after its command name svn) is a software versioning and revision control system distributed as open source under the Apache License.
+
 ## The importance of source code management tools
 
 When multiple developers are working within a shared codebase it is a common occurrence to make edits to a shared piece of code. Separate developers may be working on a seemingly isolated feature, however this feature may use a shared code module. Therefore developer 1 working on Feature 1 could make some edits and find out later that Developer 2 working on Feature 2 has conflicting edits.
